@@ -8,4 +8,4 @@ Eu sou o Felipe Gomes da Silva, sou um Programador Front End, atualmente estou a
 
 [![Felipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipeg1988)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Felipe Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeo1988)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeg1988)](https://github.com/anuraghazra/github-readme-stats)
