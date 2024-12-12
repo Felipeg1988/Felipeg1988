@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Felipe Gomes da Silva, sou um Programador Front End, atualmente estou aprendendo e crindo projetos com HTML, CSS e iniciando o aprendizado de Javasclipt e react.
+Eu sou o Felipe Gomes da Silva, sou um Programador Front End, atualmente estou Aprendendo e crindo projetos com HTML, CSS e iniciando o aprendizado de Javasclipt e react.
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
